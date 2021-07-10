@@ -7,4 +7,4 @@ Neural Synchronization: A Generalizable Model-and-Data Driven Approach for Open-
 
 
 ### Remark
-We only available partial source codes here, and the complete codes of the proposed NS will be release once this paper is accepted for publication.
+We only provide partial source codes here, and the complete codes of the proposed NS will be release once this paper is accepted for publication.
