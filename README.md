@@ -6,8 +6,6 @@ Neural Synchronization: A Generalizable Model-and-Data Driven Approach for Open-
 # Requirments
 [marveltoolbox](https://github.com/xrj-com/marveltoolbox)
 
-
-
 # Citation
 ```
 @article{xie2021generalizable,
