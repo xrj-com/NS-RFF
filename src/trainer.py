@@ -4,7 +4,6 @@ from .models import *
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-# import horovod.torch as hvd
 from .dataset import *
 from .evaluation import *
 

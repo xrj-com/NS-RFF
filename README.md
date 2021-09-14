@@ -1,10 +1,20 @@
 # NS-RFF
 Neural Synchronization: A Generalizable Model-and-Data Driven Approach for Open-Set RFF Authentication
 
+![diagram](./NS-RFF.png "Neural Synchronization for Openset RFF")
 
 # Requirments
 [marveltoolbox](https://github.com/xrj-com/marveltoolbox)
 
 
-### Remark
-We only provide partial source codes here, and the complete codes of the proposed NS will be release once this paper is accepted for publication.
+
+# Citation
+```
+@article{xie2021generalizable,
+  title={A Generalizable Model-and-Data Driven Approach for Open-Set RFF Authentication},
+  author={Xie, Renjie and Xu, Wei and Chen, Yanzhi and Yu, Jiabao and Hu, Aiqun and Ng, Derrick Wing Kwan and Swindlehurst, A Lee},
+  journal={IEEE Transactions on Information Forensics and Security},
+  year={2021},
+  publisher={IEEE}
+}
+```

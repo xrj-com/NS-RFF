@@ -1,5 +1,3 @@
-import sys
-sys.path.append('/workspace/Research/mytoolbox')
 import marveltoolbox as mt 
 import torch
 import torch.nn as nn

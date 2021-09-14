@@ -2,7 +2,7 @@ import torch
 import torch.nn as nn
 import random
 import torch.nn.functional as F
-from .utils import TorchComplex as tc
+from marveltoolbox.utils import TorchComplex as tc
 from .preprocessing import main
 import os
 
