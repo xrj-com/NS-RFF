@@ -3,7 +3,7 @@ from scipy.io import loadmat as load
 import numpy as np
 from  numpy import pi as pi
 from .OQPSK_Initialization import *
-from .utils import TorchComplex as tc
+from marveltoolbox.utils import TorchComplex as tc
 from torch.nn.utils.rnn import pad_sequence
 
 def freq_compensation_batch(
